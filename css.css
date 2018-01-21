@@ -1,0 +1,38 @@
+body {
+	background-image: url(01.jpg);
+	background-position: fixed;
+}
+
+button.one{
+	padding: 30px;
+	width: 350px;
+	font-family: jacques;
+}
+
+button.two{
+	font-family: jacques;
+	padding: 10px;
+	width: 173px;
+}
+
+input.three {
+	width: 167px;
+}
+
+@font-face {
+    font-family: jacques;
+    src: url(01.ttf) format("truetype");
+}
+
+p {
+	font-family: jacques;
+	font-size: 20px;
+}
+
+table tr, td {
+	padding: 20px;
+}
+
+h1 {
+	font-family: jacques;
+}
